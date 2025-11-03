@@ -4,7 +4,7 @@
 [![Field](https://img.shields.io/badge/Field-Systems_Biology_&_Aging_Research-blue)](README.md)  
 [![Expertise](https://img.shields.io/badge/Expertise-Python%20%7C%20Bioinformatics%20%7C%20Quantitative%20Analysis-orange)](README.md)  
 [![Contact](https://img.shields.io/badge/Email-abrahamkim0619@gmail.com-red)](mailto:abrahamkim0619@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5)](링크_입력)  
+[![Profile](https://img.shields.io/badge/GitHub-chandelier1126-181717?logo=github)](https://github.com/chandelier1126)  
 [![License](https://img.shields.io/badge/License-MIT-green)](01_Yeastblot_Aging_Meiosis/LICENSE)
 
 ---
@@ -89,7 +89,6 @@
 | 항목 | 내용 |
 |------|------|
 | **Email** | [abrahamkim0619@gmail.com](mailto:abrahamkim0619@gmail.com) |
-| **GitHub** | [github.com/chandelier1126](https://github.com/chandelier1126) |
-| **LinkedIn** | [Profile Link](링크_입력) |
+| **LinkedIn** | [Profile Link: github.com/chandelier1126](https://github.com/chandelier1126)) |
 | **CV** | [📄 View / Download](assets/file:///C:/Users/%EA%B9%80%EA%B0%95%ED%83%9D/Downloads/cv.pdf) |
 | **Affiliation** | Dept. of Life Science, Chung-Ang University |
