@@ -1,4 +1,5 @@
-![HelyxHelyxscienceGIF](https://github.com/user-attachments/assets/275222f4-da2a-46ab-aec0-6b8c3b1f4e30) # **Gangtaek Kim**’s Bioinformatics & Systems Biology Portfolio
+# **Gangtaek Kim**’s Bioinformatics & Systems Biology Portfolio  
+![HelyxHelyxscienceGIF](https://github.com/user-attachments/assets/275222f4-da2a-46ab-aec0-6b8c3b1f4e30)
 ### 생명공학 기반의 데이터 주도형 연구 — *From Wet Lab to Dry Lab Integration*
 
 [![Field](https://img.shields.io/badge/Field-Systems_Biology_&_Aging_Research-blue)](README.md)  
