@@ -91,5 +91,5 @@
 | **Email** | [abrahamkim0619@gmail.com](mailto:abrahamkim0619@gmail.com) |
 | **GitHub** | [github.com/chandelier1126](https://github.com/chandelier1126) |
 | **LinkedIn** | [Profile Link](링크_입력) |
-| **CV** | [📄 View / Download](assets/[김강택(CV).pdf](https://github.com/user-attachments/files/23306525/CV.pdf)) |
+| **CV** | [📄 View / Download](assets/[cv.pdf](https://github.com/user-attachments/files/23306556/cv.pdf)) |
 | **Affiliation** | Dept. of Life Science, Chung-Ang University |
