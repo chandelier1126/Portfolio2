@@ -1,5 +1,8 @@
+<table>
+<tr>
+<td width="70%">
+
 # **Gangtaek Kim**’s Bioinformatics & Systems Biology Portfolio  
-![HelyxHelyxscienceGIF](https://github.com/user-attachments/assets/275222f4-da2a-46ab-aec0-6b8c3b1f4e30)
 ### 생명공학 기반의 데이터 주도형 연구 — *From Wet Lab to Dry Lab Integration*
 
 [![Field](https://img.shields.io/badge/Field-Systems_Biology_&_Aging_Research-blue)](README.md)  
@@ -7,6 +10,15 @@
 [![Contact](https://img.shields.io/badge/Email-abrahamkim0619@gmail.com-red)](mailto:abrahamkim0619@gmail.com)  
 [![Profile](https://img.shields.io/badge/GitHub-chandelier1126-181717?logo=github)](https://github.com/chandelier1126)  
 [![License](https://img.shields.io/badge/License-MIT-green)](01_Yeastblot_Aging_Meiosis/LICENSE)
+
+</td>
+<td width="30%" align="right">
+
+<img src="https://github.com/user-attachments/assets/275222f4-da2a-46ab-aec0-6b8c3b1f4e30" width="220" alt="DNA animation">
+
+</td>
+</tr>
+</table>
 
 ---
 
